@@ -8,7 +8,8 @@ This project presents an in-depth analysis of **Adoption, Activation, and Retent
 ## 🚀 Key Insights  
 - 📈 **Adoption Rate** increased by **33%** over 4 months.  
 - 📉 **Activation Rate** declined by **14.2%**.  
-- ⏳ **Retention Rate** dropped by **17.6%**.  
+- ⏳ **Retention Rate** dropped by **17.6%**.
+- 📊 While acquisition is strong, declining activation and retention highlight friction points in the user journey that are limiting full platform engagement and long-term value.
 
 ## 🔍 Analysis & Solutions  
 
