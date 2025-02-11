@@ -3,7 +3,7 @@
 ## 📝 Overview  
 This project presents an in-depth analysis of **Adoption, Activation, and Retention trends** for a SaaS product. The insights and recommendations are based on real-world data, focusing on optimizing **product growth** and enhancing **user experience**.  
 
-![PDF Preview]([path/to/your/converted.gif](https://github.com/Saujanya5/Product-Operations-Analysis/blob/961160b8d5e68d74207df911dc1ad681a50a84b7/Product%20Operations%20Analysis.gif))
+![PDF Preview](https://github.com/Saujanya5/Product-Operations-Analysis/blob/961160b8d5e68d74207df911dc1ad681a50a84b7/Product%20Operations%20Analysis.gif)
 
 ## 🚀 Key Insights  
 - 📈 **Adoption Rate** increased by **33%** over 4 months.  
